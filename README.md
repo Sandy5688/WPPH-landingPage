@@ -170,8 +170,4 @@ This template is designed for easy customization:
 
 ## 📄 License
 
-This is a demo template created for educational and commercial use. Feel free to modify and adapt for your projects.
-
----
-
-**Created with ❤️ using modern web technologies**
+**
