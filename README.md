@@ -1,7 +1,7 @@
 # Static Media Discovery Landing Page
 
 A modern, fully responsive HTML landing page template designed for content discovery and media listing platforms.
-
+ 
 ## ✅ Project Status
 
 | Requirement | Status | Details |
